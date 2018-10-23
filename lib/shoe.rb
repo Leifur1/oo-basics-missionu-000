@@ -1,3 +1,7 @@
 class Book
-  initialize :: new
+  def initialize(title)
+  end
+
+  def title
+  end
 end

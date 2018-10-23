@@ -12,4 +12,5 @@ class Shoe
   def cobble
     puts "The shoe has been repaired."
     shoe.new
-    
+  end
+end

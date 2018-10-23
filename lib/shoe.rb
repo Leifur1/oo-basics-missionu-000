@@ -1,1 +1,3 @@
-# Make your shoe class here!
+class Book
+  attr_accessor :title
+end
